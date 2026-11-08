@@ -59,17 +59,6 @@ A vision-based road safety system designed to detect traffic accidents, predict 
 
 **Project Type:** Collaborative Graduation Project.
 
-### Machine Learning & Deep Learning
-Projects involving data preprocessing, model training, evaluation, and performance optimization.
-
-### Computer Vision & Image Processing
-Projects focused on object detection, image classification, and visual data analysis.
-
-### Reinforcement Learning
-Implementation of reinforcement learning algorithms, including Q-Learning and SARSA.
-
----
-
 ## Contact
 
 **Email:** [ayasabry113@gmail.com](mailto:ayasabry113@gmail.com)
