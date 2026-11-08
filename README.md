@@ -74,5 +74,5 @@ Implementation of reinforcement learning algorithms, including Q-Learning and SA
 
 **Email:** [ayasabry113@gmail.com](mailto:ayasabry113@gmail.com)
 
-**LinkedIn:** [Add your LinkedIn profile URL]
+**LinkedIn:** [https://www.linkedin.com/in/aya-sabry-b152092a3/]
 
