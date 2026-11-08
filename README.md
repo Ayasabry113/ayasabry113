@@ -43,10 +43,25 @@ Deep Learning, and Computer Vision.
 
 ## Featured Projects
 
-### RoadEye – Intelligent Road Safety System
-Vision-based traffic accident detection and driver monitoring system using deep learning and computer vision techniques.
 
-**Technologies:** Python, YOLOv8, MiDaS, OpenCV, Flutter
+## Featured Projects
+
+### [RoadEye – Intelligent Road Safety System](https://github.com/Nariman-Mahmoud-Eldaly/RoadEye_Graduation_Project)
+
+**Team Graduation Project | Computer Vision & AI**
+
+A vision-based road safety system designed to detect traffic accidents, predict potential collisions, and monitor driver behavior using real-time camera input.
+
+**My Contributions:**
+- Developed vehicle detection using YOLOv8.
+- Implemented monocular depth estimation using MiDaS.
+- Worked on vehicle tracking, motion analysis, and accident detection logic.
+- Contributed to driver monitoring functionality.
+- Worked on Flutter mobile application development and AI model integration.
+
+**Technologies:** Python, PyTorch, YOLOv8, MiDaS, OpenCV, Flutter, Dart.
+
+**Project Type:** Collaborative Graduation Project.
 
 ### Machine Learning & Deep Learning
 Projects involving data preprocessing, model training, evaluation, and performance optimization.
