@@ -43,9 +43,6 @@ Deep Learning, and Computer Vision.
 
 ## Featured Projects
 
-
-## Featured Projects
-
 ### [RoadEye – Intelligent Road Safety System](https://github.com/Nariman-Mahmoud-Eldaly/RoadEye_Graduation_Project)
 
 **Team Graduation Project | Computer Vision & AI**
