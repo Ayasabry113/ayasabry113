@@ -57,7 +57,6 @@ A vision-based road safety system designed to detect traffic accidents, predict 
 - Implemented monocular depth estimation using MiDaS.
 - Worked on vehicle tracking, motion analysis, and accident detection logic.
 - Contributed to driver monitoring functionality.
-- Worked on Flutter mobile application development and AI model integration.
 
 **Technologies:** Python, PyTorch, YOLOv8, MiDaS, OpenCV, Flutter, Dart.
 
